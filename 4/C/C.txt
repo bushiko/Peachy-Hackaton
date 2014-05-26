@@ -1,0 +1,7 @@
+El usuario A tendría derecho a dar dos códigos por año o uno por semestre.
+
+El usuario B se da de alta con el código del usuario A y ambos se guardan en algún registro
+
+|referer_user|user|
+
+A partir de ese momento el usuario y el referer_user tienen los mismos beneficios. 

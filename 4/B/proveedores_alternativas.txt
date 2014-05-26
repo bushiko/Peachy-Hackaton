@@ -1,0 +1,13 @@
+Proveedores de Pago:
+
+Paypal: Es el más conocido por las personas dentro y fuera del ámbito informático. Su integración no es tan sólida como con stripe pero su popularidad lo hace una de las mejores alternativas.
+
+
+DineroMail: Alternativa sencilla que permite pagos en tiendas departamentales como OXXO, 7Eleven; Pago de Banca en Línea de Bancomer, Santander, IXE, HSBC, Scotiabank y casi todas las tarjetas de crédito/débito comunes en México 
+
+2Checkout: Tiene un API parecida a stripe y disponible en los lenguajes de programación más populares. Además cuenta con la función 'Recurring Billing' que sería de gran ayuda para los requisitos de subscripción mensuales.
+
+Proveedores de Correo: 
+
+Mandrill: De los creadores de MailChimp, este proveedor permite un envío de 12k correos y precios bajos apartir de ese límite al mes y una API sólida y sencilla.
+

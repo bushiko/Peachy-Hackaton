@@ -1,0 +1,1 @@
+Conjunto de comandos, instrucciones y sintaxis que permiten escribir código que una computadora pueda entender.

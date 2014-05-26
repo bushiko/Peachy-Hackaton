@@ -12,6 +12,10 @@
 		('Josue', 'Maria'),
 		('Josue', 'Carlos')");
 
+
+
+	//La siguiente consulta regresará la relación nieto-abuelo de los valores presentes en la tabla
+	//Por ejemplo: Juan-Jesus, Raul-Maria, etc..
 	$query = mysql_query("SELECT a.padre AS abuelo, b.hijo AS nieto FROM padre_hijo a INNER JOIN padre_hijo b ON a.hijo = b.padre");
 ?>
 
